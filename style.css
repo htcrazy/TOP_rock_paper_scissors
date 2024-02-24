@@ -1,0 +1,36 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.top_caption {
+    background-color: lightgreen;
+}
+
+.user_buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+div {
+    padding: 10px;
+}
+
+.user_input {
+    border: 1px solid black;
+}
+
+#rps_result {
+    display: flex;
+    background-color: pink;
+    min-width: 600px;
+    min-height: 40px;
+    justify-content: center;
+    align-items: center;
+}
