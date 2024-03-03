@@ -8,10 +8,6 @@ body {
     align-items: center;
 }
 
-.top_caption {
-    background-color: lightgreen;
-}
-
 .user_buttons {
     display: flex;
     justify-content: center;
